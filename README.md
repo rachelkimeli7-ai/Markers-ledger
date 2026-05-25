@@ -88,3 +88,22 @@ project-root/
 ├── TRACE.md
 ├── TEST_PLAN.md
 └── AI_AND_ASSISTANCE.md
+
+
+Installation & Setup
+
+1. Clone the repository
+Bash
+git clone <myrepo-link>
+
+2. Navigate into the project folder
+Bash
+cd Markers-ledger
+
+3. Install dependencies
+Bash
+npm install
+
+4. Run the project
+Bash
+node src/main.js
